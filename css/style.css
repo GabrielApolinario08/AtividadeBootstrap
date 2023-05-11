@@ -9,3 +9,7 @@
     border: 2px solid red;
     justify-content: space-between ;
 } */
+
+p {
+    text-align: justify;
+}
