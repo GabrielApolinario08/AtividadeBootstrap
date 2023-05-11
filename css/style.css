@@ -1,0 +1,11 @@
+.cabecalho {
+    background-image: url(https://picsum.photos/1900/700);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+/* section {
+    border: 2px solid red;
+    justify-content: space-between ;
+} */
